@@ -391,5 +391,5 @@ def post_to_file(string, filename='tournament.txt', directory=''):
 if __name__ == '__main__':
     scores, moves, reports = main_play(modules[0:4])   
     section0, section1, section2, section3 = reports
-    print: 'Beginning Game...'
+    #This function begins the game
    
